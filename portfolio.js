@@ -4,8 +4,8 @@ export const greetings = {
   name: "Mohsin Ali",
   title: "Hi all, I'm Mohsin",
   description:
-    "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.",
-  resumeLink: "https://cv.mohsin.ga",
+    "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript, TypeScript , ReactJs , NodeJs, Relational and Non-Relational Databases and some other cool libraries and frameworks.",
+  resumeLink: "https://mohsinnaqvipro.github.io/resume/",
 };
 
 export const openSource = {
@@ -63,14 +63,6 @@ export const skillsSection = {
       fontAwesomeClassname: "logos:nodejs-icon",
     },
     {
-      skillName: "flutter",
-      fontAwesomeClassname: "logos:flutter",
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "vscode-icons:file-type-swift",
-    },
-    {
       skillName: "npm",
       fontAwesomeClassname: "vscode-icons:file-type-npm",
     },
@@ -89,10 +81,6 @@ export const skillsSection = {
     {
       skillName: "firebase",
       fontAwesomeClassname: "logos:firebase",
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "logos:python",
     },
     {
       skillName: "git",
@@ -165,10 +153,10 @@ export const experience = [
     date: "June 2019 – October 2021",
     desc: "MERN Stack Software Engineer",
     descBullets: [
-      "Technology Stack: Node js, React js, Redux, JavaScript, MySql, AWS, PsotgresSql, AWS Lambda, Sequelize, SQL Procedures, API Development.",
+      "Technology Stack: Node js, React js, Redux, JavaScript, TypeScript, MSSQL, MySql, AWS, PsotgresSql, AWS Lambda, Sequelize, SQL Procedures, API Development.",
       "Implementation of the Payment Gateways: Stripe and Checkout.",
       "Using SAM Framework and Express for creating REST Apis.",
-      "Worked on Serveral Services of AWS like s3, RDS, API Gateway, Lambda Function, CICD pipelines, Code Commit, Cloud Formation, Pinpoint, EC2, IAM, SSM, CloudWatch, Elastic Redis Cache, Dynamo DB etc.",
+      "Worked on Several Services of AWS like s3, RDS, API Gateway, Lambda Function, CICD pipelines, Code Commit, Cloud Formation, Pinpoint, EC2, IAM, SSM, CloudWatch, Elastic Redis Cache, Dynamo DB etc.",
     ],
   },
   {
@@ -178,10 +166,10 @@ export const experience = [
     date: "1 November – Present",
     desc: "MERN Stack Software Engineer",
     descBullets: [
-      "Technology Stack: Node js, React js, Redux, JavaScript, MySql, AWS, PsotgresSql, AWS Lambda, Sequelize, SQL Procedures, API Development.",
+      "Technology Stack: Node js, React js, Redux, JavaScript, TypeScript, MSSQL, MySql, AWS, PostgresSql, AWS Lambda, Sequelize, SQL Procedures, API Development.",
       "Implementation of the Payment Gateways: Stripe and Checkout.",
       "Using SAM Framework and Express for creating REST Apis.",
-      "Worked on Serveral Services of AWS like s3, RDS, API Gateway, Lambda Function, CICD pipelines, Code Commit, Cloud Formation, Pinpoint, EC2, IAM, SSM, CloudWatch, Elastic Redis Cache, Dynamo DB etc.",
+      "Worked on Several Services of AWS like s3, RDS, API Gateway, Lambda Function, CICD pipelines, Code Commit, Cloud Formation, Pinpoint, EC2, IAM, SSM, CloudWatch, Elastic Redis Cache, Dynamo DB etc.",
     ],
   },
   //   {
