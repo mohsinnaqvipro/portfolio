@@ -216,3 +216,6 @@ export const feedbacks = [
       "We have been very happy with our new website! It looks professional and very easy to navigate.",
   },
 ];
+
+
+// "build": "SET NODE_OPTIONS=--openssl-legacy-provider && next build",
